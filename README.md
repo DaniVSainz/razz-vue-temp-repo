@@ -6,6 +6,7 @@ Razz Vue Rewards
 1. There's a lot of stuff that I would have liked to do however I just could not afford to invest more time into the challenge.
 2. I had a lot of fun having an excuse to try out Vue and was impressed by its similarities with other frameworks.
 3. I would have liked implementing a ticket system for the rewards with a job that processes them in order until out of stock however I  did not have time for it.
+4. I also would have liked to make it pixel perfect and more responsive however I could not afford to invest that amount of time into it.  
 
 ### Online at https://razzvuerewards.herokuapp.com/  
 1. Since im using a free Gmail account to send out emails sometimes there can be issues using it on prod with delayed emails 10+min or google triggering security measures requiring manual intervention.
