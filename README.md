@@ -29,5 +29,5 @@ secret=yoursecret
 ### Dev notes  
 Emails in dev are sent with a https link, if you're running in http they will not work and you'll have to remove the s to test the links.  
 ### There's two ways to run the project  
-1. cd into client & npm run dev.Then in another terminal cd into node-backend & nodemon/node bin/www  
-2. Or cd into node-backend & npm run startDev  
+1. cd into client & npm run dev.Then in another terminal cd into node-backend & nodemon/node bin/www. Client would run on localhost 8080 and backend on localhost:3000
+2. Or cd into node-backend & npm run startDev . This would serve our frontend bundled ontop of the express backend.
