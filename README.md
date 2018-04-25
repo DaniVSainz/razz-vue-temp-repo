@@ -20,7 +20,10 @@ to verify your email via the link sent out to your email.
 Feel free to use the razzvuerewards email i sent to Kenney, however, I cannot guarantee that Google won't flag the different ip requiring me to unlock the account.  
   
  .env File formatting  
-userEmail=
-userPass=
-mongoUrl=mongodb://localhost:27017/vue-redeemExpTest
-secret=yoursecret
+userEmail=  
+userPass=  
+mongoUrl=mongodb://localhost:27017/vue-redeemExpTest  
+secret=yoursecret  
+
+### Dev notes  
+Emails in dev are sent with a https link, if you're running in http they will not work and you'll have to remove the s to test the links.  
